@@ -75,6 +75,14 @@ export default {
         ],
       },
       {
+        nombreRuta: 'tema3',
+        icono: 'far fa-file-alt',
+        numero: '3',
+        titulo: 'Gerber',
+        desarrolloContenidos: true,
+        subMenu: [],
+      },
+      {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',

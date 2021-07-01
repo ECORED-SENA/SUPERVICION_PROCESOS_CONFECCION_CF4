@@ -48,6 +48,33 @@ export default {
         ],
       },
       {
+        nombreRuta: 'tema2',
+        icono: 'far fa-file-alt',
+        numero: '2',
+        titulo: 'Optitex',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Funciones básicas de PDS',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Patronaje en OptiTex de prendas inferiores y superiores',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Escalado de patrones en Marker OptiTex',
+            hash: 't_2_3',
+          },
+        ],
+      },
+      {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',

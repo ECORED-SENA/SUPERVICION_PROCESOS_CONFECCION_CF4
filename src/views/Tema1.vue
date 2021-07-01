@@ -77,47 +77,47 @@
       .col-lg-10
         ol.lista-ol--cuadro.lista-ol--separador
           li
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span a
             | No requiere de programación especial para disponer los patrones para la tizada (trazo).          
           li
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span b
             | Se pueden copiar moldes o patrones de un archivo a otro sin necesidad de generar un nuevo archivo.
           li
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span c
             | Cuenta con funciones de guardado en versiones anteriores y se pueden abrir sin ningún inconveniente.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span d
             | Contiene herramientas que propician la construcción de patrones desde cero, transformación, marcaciones, mediciones, escalado y posee características que permiten el complemento con los demás paquetes de softwares.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span e
             | Interfaz intuitiva y muy fácil de manejar.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span f
             | Se pueden imprimir moldes o patrones directamente a una impresora a la escala que se desee. 
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span g
             | No hay límite de espacio, es demasiado amplio para poder integrar en un mismo archivo muchos patrones. 
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span h
             | Permite la marcación de cada uno de los nombres de los patrones, descripciones o acotaciones especiales que se necesiten para el ploteo de los moldes.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span i
             | Cuenta con herramientas de texto.
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span j
             | Cuenta con sistema de contraseñas para archivos determinados, favoreciendo la confidencialidad. Esto sucede dado que en varias empresas manejan básicos estrella, en los que no todo el personal está autorizado a entrar y trabajar sobre ellos, solo aquel personal autorizado por la empresa. 
           li 
-            .lista-ol--cuadro__vineta.color-acento-botones
+            .lista-ol--cuadro__vineta.color-acento-botones-1
               span k
             p <b>El programa que complementa a Audaces Patrones es Audaces Tizada</b>, en donde una vez se terminan de desarrollar el respectivo patronaje y escalado se pasa al trazado de los moldes en un espacio que está determinado a partir de anchos de tela y largos de tendido para producción, lo cual posteriormente pasara a ser el plano que guie el tendido y corte de la producción a confeccionar.
 
@@ -130,7 +130,7 @@
           figcaption Fuente: SENA 2021
       .col-lg-1
 
-    .row.mb-5
+    .row.mb-4
       .col-lg-2
       .col-lg-8.px-3
         a.anexo(href="https://www.youtube.com/watch?v=C0O6derJC2s" target="_blank")
@@ -151,7 +151,7 @@
 
     p Para profundizar en la comprensión del funcionamiento de las herramientas básicas del programa, se invita a visualizar los siguientes videos:
 
-    .row.mb-5
+    .row.mb-4
       .col-lg-2
       .col-lg-8
         .row.mb-4
@@ -223,7 +223,7 @@
 
     p.mb-5 Así mismo, se invita al aprendiz a profundizar en la creación e interpretación de una prenda superior en el software de Audaces Patrones, teniendo en cuenta que ya se pudo ver como se construía un patrón desde cero, en el video se podrá observar un ejercicio de interpretación.
 
-     .row.mb-5
+     .row.mb-4
       .col-lg-1
       .col-lg-10
         figure
@@ -263,8 +263,8 @@
     .row.mb-5
       .col-lg-1
       .col-lg-10
-        figure
-          .video
+        figurelll
+          .videol
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .col-lg-1
     //.align-items-center

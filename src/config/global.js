@@ -1,9 +1,9 @@
 export default {
   global: {
     componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+      'Patronaje digital de prendas de vestir                               ',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
+      'Explicar el manejo de Softwares para la elaboración de patrones y escalado digital, es parte de la comprensión de esta temática, es por ello, que se abordará todo el proceso de digitalización a partir del reconocimiento de la interfaz, hasta el proceso de trazo automático. Se abordarán los softwares Audaces 360 y OptiTex en detalle; y Gerber se abordará de manera general.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -51,7 +51,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Optitex',
+        titulo: 'OptiTex',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -114,17 +114,17 @@ export default {
   referencias: [
     {
       referencia:
-        'Audaces 360 - The most complete solution in systems for the fashion industry. (2021). Retrieved 27 May 2021',
+        'Audaces 360 - The most complete solution in systems for the fashion industry. (2021). Retrieved 27 May 2021. from',
       link: 'https://audaces.com/audaces-360/',
     },
     {
       referencia:
-        'OptiTex - Soluciones Digitales de Principio a Fin para la industria de Moda y Vestuario. (2021). Retrieved 27 May 2021',
+        'OptiTex - Soluciones Digitales de Principio a Fin para la industria de Moda y Vestuario. (2021). Retrieved 27 May 2021. from',
       link: 'https://optitex.com/es/',
     },
     {
       referencia:
-        'Gerber - convierta sus diseños en productos acabados. (2021). Retrieved 27 May 2021',
+        'Gerber - convierta sus diseños en productos acabados. (2021). Retrieved 27 May 2021. from',
       link: 'https://www.gerbertechnology.com/es-es/',
     },
     {
@@ -139,11 +139,11 @@ export default {
   glosario: [
     {
       termino: 'CAD',
-      significado: 'Diseño Asistido por Computador',
+      significado: 'Diseño Asistido por Computador.',
     },
     {
       termino: 'CAM',
-      significado: 'Manufacturas Asistidas por Computador',
+      significado: 'Manufacturas Asistidas por Computador.',
     },
     {
       termino: 'Digitalizadora	',
@@ -192,19 +192,19 @@ export default {
   complementario: [
     {
       texto:
-        'SENA.  (2020).  Interpretación de pantys, recuperado el 27 de mayo de 2021',
+        'SENA.  (2020).  Interpretación de pantys, recuperado el 27 de mayo de 2021.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=9geZEB4JOtQ',
     },
     {
       texto:
-        'SENA.  (2021).  Interpretación hípsters, recuperado el 27 de mayo de 2021',
+        'SENA.  (2021).  Interpretación hípsters, recuperado el 27 de mayo de 2021.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-GlhLbiF6dY',
     },
     {
       texto:
-        'SENA.  (2021).  Pantaloncillo masculino, recuperado el 27 de mayo de 2021',
+        'SENA.  (2021).  Pantaloncillo masculino, recuperado el 27 de mayo de 2021.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=v9mOfjGAG3Y',
     },
@@ -215,19 +215,19 @@ export default {
     },
     {
       texto:
-        'Herramientas digitales Moda, 13 de junio 2018, AUDACES TIZADA Trazo',
+        'Herramientas digitales Moda, 13 de junio 2018, AUDACES TIZADA Trazo.',
       tipo: 'Video',
       link: 'https://youtu.be/C0O6derJC2s',
     },
     {
       texto:
-        'Herramientas digitales Moda, 15 de marzo 2018, OPTITEX - MARKER Trazo de patrones',
+        'Herramientas digitales Moda, 15 de marzo 2018, OPTITEX - MARKER Trazo de patrones.',
       tipo: 'Video',
       link: 'https://youtu.be/fscxWYsenLE',
     },
     {
       texto:
-        'Goméz, M.  (2017).  Tutorial Modaris Lectra, reucperado el 28 de mayo de 2021',
+        'Goméz, M.  (2017).  Tutorial Modaris Lectra, reucperado el 28 de mayo de 2021.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=qRMjHPIRPiQ',
     },

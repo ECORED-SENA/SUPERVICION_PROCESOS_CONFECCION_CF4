@@ -11,8 +11,25 @@
     .row.mb-5
       .col-lg-7.d-flex.align-items-center
         div
-          p.mb-5 Como ya se ha mencionado dentro del sector productivo de la moda, hay diferentes softwares que permiten optimización de todos los recursos que comprende una empresa dentro de los departamentos de producción, uno de ellos es el dedicado a la generación de modelos o diseños integrado generalmente por:
-          p Estos oficios deben desarrollarse con tal agilidad que permita la producción masiva de las prendas de vestir dentro de una fábrica, y para responder a ellos varias empresas han logrado el desarrollo de software permitiendo generar mayor rendimiento, este es el caso por ejemplo de Audaces 360, que ofrece un paquete completo para suplir este tipo de necesidades. 
+          p.mb-5 Como ya se ha mencionado, dentro del sector productivo de la moda hay diferentes softwares, que permiten optimización de todos los recursos que comprende una empresa dentro de los departamentos de producción, uno de ellos es el dedicado a la generación de modelos o diseños, integrado generalmente por:
+          
+          ul.ms-5.lista-ul.mb-5
+            li 
+              i.lista-ul__vineta
+              | Diseñadores de moda
+            li 
+              i.lista-ul__vineta
+              | Diseñadores gráficos
+            li 
+              i.lista-ul__vineta
+              | Patronistas
+            li 
+              i.lista-ul__vineta
+              | Escaladores
+            li 
+              i.lista-ul__vineta
+              | Trazadores
+          p Estos oficios deben desarrollarse con tal agilidad que permita la producción masiva de las prendas de vestir dentro de una fábrica, y para responder a ellos, varias empresas han logrado el desarrollo de software permitiendo generar mayor rendimiento, este es el caso por ejemplo de Audaces 360, que ofrece un paquete completo para suplir este tipo de necesidades.
       .col-lg-4
         figure
           img(src='@/assets/curso/tema1/img01.svg')
@@ -23,10 +40,10 @@
       .col-lg-10
         .cajon.color-acento-contenido.fondo-rojo-claro-1.py-5  
           .row.mb-4
-            .col-lg-1
-            .col-lg-10
-              p Audaces 360 es un conjunto de software que integra las etapas creativa y productiva para desarrollar la planeación de una empresa o fabrica dentro de sus diferentes líneas, estos softwares son:
-            .col-lg-1     
+            .col-1
+            .col-10
+              p Audaces 360 es un conjunto de softwares que integra las etapas creativa y productiva, para desarrollar la planeación de una empresa o fábrica dentro de sus diferentes líneas, estos softwares son:
+            .col-1     
           .row.px-5       
             .col-lg-5
               figure.mb-4
@@ -46,7 +63,7 @@
                 p <b>Audaces Supera:</b> servidor velos de tizadas.
       .col-lg-1
 
-    p.mb-5 Como se puede observar, esta línea de software suple cada una de las áreas dentro de los departamentos productivos integrados en el departamento de la generación de modelos de prendas de vestir, a continuación, se describirán las características generales del software enfocado en el desarrollo de patrones y escalado de prendas de vestir. 
+    p.mb-5 Como se puede observar, esta línea de software suple cada una de las áreas dentro de los departamentos productivos, integrados en el departamento de la generación de modelos de prendas de vestir; a continuación, se describirán las características generales del software enfocado en el desarrollo de patrones y escalado de prendas de vestir.
 
     h3 Características Audaces Patrones
     .row.fondo-gris-1.py-5.mb-5
@@ -63,11 +80,11 @@
       .col-lg-10
         .cajon.color-acento-contenido.fondo-rojo-claro-1.py-5  
           .row
-            .col-lg-1
-            .col-lg-10.py-4
-              p.mb-5 Audaces Patrones permite construir de manera dinámica patrones con alta precisión para ello emplea una ubicación espacial basada en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, adicionalmente permite construir patrones con nivel avanzado como ecualizaciones y amplitudes, entre otros.
-              p Su interfaz es muy intuitiva pues está diseñado para que el programa en sí mismo, le indique al usuario el paso a seguir en cada herramienta que se vaya a implementar, este software escala y modifica patrones ya creados.
-            .col-lg-1
+            .col-1
+            .col-10.py-4
+              p.mb-5 Audaces Patrones permite construir de manera dinámica patrones con alta precisión, para ello, emplea una ubicación espacial basada en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, adicionalmente, permite construir patrones con nivel avanzado como ecualizaciones y amplitudes, entre otros. 
+              p Su interfaz es muy intuitiva, pues está diseñado para que el programa en sí mismo, le indique al usuario el paso a seguir en cada herramienta que se vaya a implementar, este software escala y modifica patrones ya creados.
+            .col-1
       .col-lg-1
       
     p.mb-5 <b>Dentro de sus características generales:</b>
@@ -119,7 +136,7 @@
           li 
             .lista-ol--cuadro__vineta.color-acento-botones-1
               span k
-            p <b>El programa que complementa a Audaces Patrones es Audaces Tizada</b>, en donde una vez se terminan de desarrollar el respectivo patronaje y escalado se pasa al trazado de los moldes en un espacio que está determinado a partir de anchos de tela y largos de tendido para producción, lo cual posteriormente pasara a ser el plano que guie el tendido y corte de la producción a confeccionar.
+            p <b>El programa que complementa a Audaces Patrones es Audaces Tizada</b>, en donde una vez se terminan de desarrollar el respectivo patronaje y escalado, se pasa al trazado de los moldes en un espacio que está determinado a partir de anchos de tela y largos de tendido para producción, lo cual posteriormente pasará a ser el plano que guie el tendido y corte de la producción a confeccionar.
 
     .row.fondo-gris-1.py-5.mb-5
       .col-lg-1
@@ -164,22 +181,22 @@
               .anexo__texto
                 p <b>Enlace web.</b> Interfaz de Audaces
           .col-lg-5
+            p.mb-4 <b> 2. Elementos básicos de Audaces</b>
+            a.anexo(href="https://www.youtube.com/watch?v=X4KJlTEPamA" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Elementos básicos de Audaces          
+          .col-lg-1
+        .row
+          .col-lg-1
+          .col-lg-5
             p.mb-4 <b>3. Elemento vs Patrón</b>
             a.anexo(href="https://www.youtube.com/watch?v=2TVCOrR_ECA" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Elemento vs Patrón
-          .col-lg-1
-        .row
-          .col-lg-1
-          .col-lg-5
-            p.mb-4 <b> 2. Elementos básicos de Audaces</b>
-            a.anexo(href="https://www.youtube.com/watch?v=X4KJlTEPamA" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace web.</b> Elementos básicos de Audaces
           .col-lg-5
             p.mb-4 <b>4. Snap clásico automático</b>
             a.anexo(href="https://www.youtube.com/watch?v=UMZiH0aZQNo" target="_blank")
@@ -198,20 +215,20 @@
     .row.mb-5
       .col-lg-6
         div.fondo-a.p-5(style="height:100%")
-          p.mb-5(style="height:8%") Para observar cómo se patrona en el software Audaces patrones es importante reconocer como se ve un patrón.
+          p.mb-5(style="height:8%") Para observar cómo se patrona en el software Audaces patrones, es importante reconocer cómo se ve un patrón.
           figure
-            p.BorTit <b>Figura 2.</b> Interfaz Audaces Tizada
+            p.BorTit <b>Figura 11.</b> Patrón audaces
             img(src='@/assets/curso/tema1/img13.png')
             figcaption Fuente: SENA 2021
       .col-lg-6
         div.fondo-b.p-5(style="height:100%")
-          p.mb-5(style="height:8%") A continuación, se observa un patrón escalado con costuras
+          p.mb-5(style="height:8%") A continuación, se observa un patrón escalado con costuras.
           figure
-            p.BorTit <b>Figura 2.</b> Interfaz Audaces Tizada
+            p.BorTit <b>Figura 12.</b> Patrón Audaces escalado con costuras
             img(src='@/assets/curso/tema1/img14.png')
             figcaption Fuente: SENA 2021
 
-    p.mb-5 Para observar cómo funciona el programa ya entrado en práctica se invita al aprendiz visualizar el siguiente video sobre la creación de una prenda inferior en el software de Audaces Patrones.
+    p.mb-5 Para observar cómo funciona el programa, ya entrado en práctica, se invita al aprendiz a visualizar el siguiente video sobre la creación de una prenda inferior en el software de Audaces Patrones.
     
     .row.mb-5
       .col-lg-1
@@ -221,7 +238,7 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .col-lg-1
 
-    p.mb-5 Así mismo, se invita al aprendiz a profundizar en la creación e interpretación de una prenda superior en el software de Audaces Patrones, teniendo en cuenta que ya se pudo ver como se construía un patrón desde cero, en el video se podrá observar un ejercicio de interpretación.
+    p.mb-5 Así mismo, se invita al aprendiz a profundizar en la creación e interpretación de una prenda superior en el software de Audaces Patrones, teniendo en cuenta que ya se pudo ver cómo se construía un patrón desde cero, en el video se podrá observar un ejercicio de interpretación.
 
      .row.mb-4
       .col-lg-1
@@ -236,29 +253,29 @@
     #t_1_3.titulo-segundo
       h2 1.3 Escalado de patrones en “Audaces Patrones”
 
-    p.mb-5 Como se ha mencionado para dar una correcta aplicación a las herramientas de escalado se debe tener presente que se aplicarán las medidas o datos numéricos acordes a la metodología del patronista y/o escalador, para ello en el programa se debe establecer las tallas primero a partir del patrón base, como se muestra en la imagen siguiente, una vez creado el patrón, se le da clic derecho y se selecciona propiedades, seguido, se pincha en la pestaña de escalado y se asignan las respectivas tallas.
+    p.mb-5 Como se ha mencionado, para dar una correcta aplicación a las herramientas de escalado se debe tener presente que se aplicarán las medidas o datos numéricos acordes a la metodología del patronista y/o escalador, para ello, en el programa se deben establecer las tallas primero a partir del patrón base, como se muestra en la imagen siguiente, una vez creado el patrón, se le da clic derecho y se selecciona propiedades, seguido, se pincha en la pestaña de escalado y se asignan las respectivas tallas.
     
     .row.mb-5.py-5.fondo-a
       .col-lg-1
       .col-lg-10.py-3
         figure
-          p.BorTit <b>Figura 13.</b> Propiedades, escalado para asignación de tallas.
+          p.BorTit <b>Figura 13.</b> Propiedades, escalado para asignación de tallas
           img(src='@/assets/curso/tema1/img15.png')
           figcaption Fuente: SENA 2021
       .col-lg-1
 
-    p.mb-5 En la figura anterior se observa que la talla base, está señalada por el programa en rojo y las demás no, a estas se les asigna colores diferentes, pinchando en cada uno de los cajones, esto para cuando se esté escalando se puedan diferenciar las líneas de los patrones resultantes. 
+    p.mb-5 En la figura anterior, se observa que la talla base, está señalada por el programa en rojo y las demás no, a estas se les asigna colores diferentes, pinchando en cada uno de los cajones, esto para cuando se esté escalando se puedan diferenciar las líneas de los patrones resultantes. 
 
     .row.mb-5.py-5.fondo-gris-1
       .col-lg-1
       .col-lg-10.py-3
         figure
-          p.BorTit <b>Figura 14.</b> Escalado por tablas
+          p.BorTit <b>Figura 14.</b> Escalado por tabla
           img(src='@/assets/curso/tema1/img16.png')
           figcaption Fuente: SENA 2021
       .col-lg-1
 
-    p.mb-5 En la figura anterior se observa que una vez se pincha en tabla dentro de la pestaña de escalado se abre una ventana en la que en cada casilla se asignaran lo valores a escalar, también se observa otros botones en la parte inferior que sirve para agilizar este proceso, para comprender más sobre el escalado, se invita a visualizar el video: 
+    p.mb-5 En la figura anterior, se observa que una vez se pincha en tabla, dentro de la pestaña de escalado, se abre una ventana en la que en cada casilla se asignaran los valores a escalar, también se observan otros botones en la parte inferior, que sirve para agilizar este proceso; para comprender más sobre el escalado, se invita a visualizar el siguiente video: 
     
     .row.mb-5
       .col-lg-1
@@ -290,11 +307,11 @@ export default {
       },
       {
         figura: 'Figura 4. ',
-        tituloImagen: 'Herramientas de construcción',
+        tituloImagen: 'Pestaña de construcción',
         imagen: require('@/assets/curso/tema1/img06.png'),
         titulo: 'B. Herramientas de construcción',
         descripcion:
-          'Contiene opciones para realizar rectas, rectángulos, cuadrados, prolongación de rectas y las relacionadas a ángulos, curvas, editor de curvas, configuración de puntos, puntos por coordenadas y circunferencias por aplicación de formula y ángulos, estás basadas en operaciones básicas de geometría y finaliza con textos.  De aquí parte toda la construcción inicial de un básico de patrón.',
+          'Contiene opciones para realizar rectas, rectángulos, cuadrados, prolongación de rectas y las relacionadas a ángulos, curvas, editor de curvas, configuración de puntos, puntos por coordenadas y circunferencias por aplicación de fórmula y ángulos, están basadas en operaciones básicas de geometría y finaliza con textos.  De aquí parte toda la construcción inicial de un básico de patrón.',
       },
       {
         figura: 'Figura 5. ',

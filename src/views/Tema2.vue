@@ -6,14 +6,14 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Optitex
+      h1 OptiTex
 
     .row.mb-5
       .col-lg-7.d-flex
         .cajon.color-acento-botones.fondo-c.p-5.d-flex.align-items-center
           div 
-            p.mb-5 OptiTex es un sistema CAD/CAM (Diseño asistido por computador y Manufacturas Asistidas por Computador) 2D y 3D, el cual mejora la rentabilidad en las empresas permitiendo un ahorro de tiempo y minimización del desperdicio de la materia prima, en la elaboración de sus productos. Este software es el más utilizado en Colombia actualmente por las empresas manufactureras.
-            p esta unidad temática el enfoque se realiza en patrones únicamente de la línea femenina, sin embargo, cabe resaltar que las herramientas del programa y manejo de interfaz, aplica para cualquier línea, debe tener en cuenta el desarrollo del trabajo manual para aplicarlo de manera digital.
+            p.mb-5 OptiTex es un sistema CAD/CAM (Diseño Asistido por Computador y Manufacturas Asistidas por Computador) 2D y 3D, el cual mejora la rentabilidad en las empresas permitiendo un ahorro de tiempo y minimización del desperdicio de la materia prima, en la elaboración de sus productos. Este software es el más utilizado en Colombia actualmente por las empresas manufactureras.
+            p En esta unidad temática el enfoque se realiza en patrones únicamente de la línea femenina, sin embargo, cabe resaltar que las herramientas del programa y manejo de interfaz, aplica para cualquier línea y debe tener en cuenta el desarrollo del trabajo manual para aplicarlo de manera digital.
       .col-lg-5
         figure
           img(src='@/assets/curso/tema2/img01.svg')
@@ -26,25 +26,25 @@
           div.p-4.fondo-rojo-claro-1
             h3.m-0.text-center PDS
           div.p-5.d-flex.align-items-center(style="height:100%")
-            p.text-center aSistema de diseño de patrones, también se pueden anexar por la mesa digitalizadora. 
+            p.text-center Sistema de diseño de patrones, también se pueden anexar por la mesa digitalizadora. 
       .col-lg-4.d-flex 
         div.borde-1.d-flex.flex-column          
           div.p-4.fondo-rojo-claro-1
             h3.m-0.text-center Marker
           div.p-5.d-flex.align-items-center(style="height:100%")
-            p.text-center Es el acomodo de piezas para el corte industrial, se puede realizar de forma manual o automática. Reportes del trazo.. 
+            p.text-center Es el acomodo de piezas para el corte industrial, se puede realizar de forma manual o automática. Reportes del trazo.
       .col-lg-4.d-flex
         div.borde-1.d-flex.flex-column           
           div.p-4.fondo-rojo-claro-1
             h3.m-0.text-center RunwayViewer
           div.p-5.d-flex.align-items-center(style="height:100%")
-            p.text-center Es un sistema de simulación de prendas en un avatar que puede ser personalizado según la tabla de medidas, se basa en las características de los patrones realizados en PDS y en las características precisas de las telas reales.
+            p.text-center Es un sistema de simulación de prendas en un avatar, que puede ser personalizado según la tabla de medidas, se basa en las características de los patrones realizados en PDS y en las características precisas de las telas reales.
 
     p.mb-5 A continuación, se describirán las características generales del software enfocado en el desarrollo de patrones y escalado de prendas de vestir. 
 
     h3.mb-5 Características del software OptiTex
-    p.mb-5 Optitex permite construir de manera dinámica patrones con alta precisión para ello emplea una ubicación espacial basados en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, partiendo de figuras geométricas o líneas dibujadas. Cabe resaltar que el escalado se realiza en este software también.
-    p.mb-5 Su interfaz es muy intuitiva generando que el mismo programa le indique el paso a seguir en cada herramienta que se vaya a implementar, escala y modifica patrones ya creados.
+    p.mb-5 Optitex permite construir de manera dinámica patrones con alta precisión, para ello, emplea una ubicación espacial basados en el plano cartesiano y ángulos que permiten ser muy exactos en el momento de generar cualquier tipo de patrón, partiendo de figuras geométricas o líneas dibujadas. Cabe resaltar que el escalado se realiza en este software también.
+    p.mb-5 Su interfaz es muy intuitiva, generando que el mismo programa le indique el paso a seguir en cada herramienta que se vaya a implementar, escala y modifica patrones ya creados.
 
     .row.fondo-gris-1.py-5.mb-5
       .col-lg-1
@@ -55,7 +55,7 @@
           figcaption Fuente: SENA 2021
       .col-lg-1
     
-    p.mb-5 <b>Dentro de sus características generales de PDS se encuentran:</b>
+    p.mb-5 <b>Dentro de las características generales de PDS se encuentran:</b>
 
     .row.mb-5
       .col-lg-1
@@ -116,15 +116,6 @@
 
     p.mb-5 En complemento con lo anterior, dentro de las características generales de Marker encontramos:
     
-    .row.fondo-gris-1.py-5.mb-5
-      .col-lg-1
-      .col-lg-10.py-3
-        figure.mb-4
-          p.BorTit <b>Figura 16.</b> Interfaz Marker
-          img(src='@/assets/curso/tema2/img03.png')
-          figcaption Fuente: SENA 2021
-      .col-lg-1
-
     .row.mb-5
       .col-lg-1
       .col-lg-10
@@ -137,13 +128,13 @@
             | Detección automática de moldes con intersección.
           li 
             span.text-bold 3. 
-            | Permite importar la tela o escanearla.
+            | Permite importar la tela o escanearla.          
           li 
             span.text-bold 4. 
-            | Opciones y herramientas que permiten lograr un mejor rendimiento en la eficiente del trazo.Capacidad de cambiar cualquier parámetro.
+            | Capacidad de cambiar cualquier parámetro.
           li 
             span.text-bold 5. 
-            | Opciones y herramientas que permiten lograr un mejor rendimiento en la eficiente del trazo.
+            | Opciones y herramientas que permiten lograr un mejor rendimiento en la eficiencia del trazo.
           li 
             span.text-bold 6. 
             | Cambio de cantidades, cambio de dimensiones de trazo, número de capas, y todos los demás parámetros del sistema en cualquier momento.
@@ -153,6 +144,15 @@
           li 
             span.text-bold 8. 
             | Manejo de paquetes completos en el trazo.    
+      .col-lg-1
+
+    .row.fondo-gris-1.py-5.mb-5
+      .col-lg-1
+      .col-lg-10.py-3
+        figure.mb-4
+          p.BorTit <b>Figura 16.</b> Interfaz Marker
+          img(src='@/assets/curso/tema2/img03.png')
+          figcaption Fuente: SENA 2021
       .col-lg-1
 
     .row.mb-4
@@ -171,13 +171,13 @@
       h2 2.1  Funciones básicas de PDS
 
     p.mb-4 El programa cuenta con una serie de pestañas integradas de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista.
-    p.mb-5 Para el manejo e implementación del software de patronaje es necesario acudir tener conocimientos de patronaje y escalado asociados a la elaboración de básicos.
+    p.mb-5 Para el manejo e implementación del software de patronaje, es necesario acudir tener conocimientos de patronaje y escalado, asociados a la elaboración de básicos.
     
     .row.fondo-a.py-5.mb-5
       .col-lg-1
       .col-lg-10.py-3
         figure.mb-4
-          p.BorTit <b>Figura 17.</b> Dimensiones en la interfaz PDS
+          p.BorTit <b>Figura 17.</b> Divisiones en la interfaz PDS
           img(src='@/assets/curso/tema2/img04.png')
           figcaption Fuente: SENA 2021
       .col-lg-1
@@ -210,13 +210,13 @@
             img(src='@/assets/curso/tema2/img07.png')
             figcaption Fuente: SENA 2021
           figure.mb-5
-            p.BorTit <b>Figura 21.</b>Unidades de trabajo
+            p.BorTit <b>Figura 21.</b> Unidades de trabajo
             img(src='@/assets/curso/tema2/img08.png')
             figcaption Fuente: SENA 2021
           .row
             .col-lg-7
               figure.mb-5
-                p.BorTit <b>Figura 22.</b>Configuración de colores
+                p.BorTit <b>Figura 22.</b> Configuración de colores
                 img(src='@/assets/curso/tema2/img09.png')
                 figcaption Fuente: SENA 2021
             .col-lg-5.py-5
@@ -240,16 +240,9 @@
       .row(titulo="C. Activación de herramientas en la barra menú ver")
         .col-lg-2               
         .col-md-9
-          p.mb-5 Es importante saber cómo activar las ventanas con las que más se trabajan en la construcción de patrones y del escalado. Se pueden activar en la barra menú ver y las más importantes son las siguientes:
-          .row
-            .col-lg-7
-              figure.mb-5
-                p.BorTit <b>Figura 23.</b>Divisiones en la interfaz PDS
-                img(src='@/assets/curso/tema2/img10.png')
-                figcaption Fuente: SENA 2021
-            .col-lg-5.py-5
-              p.mb-4 En esa ventana se puede configurar para:
-              ol.lista-ol
+          p.mb-4 Es importante saber cómo activar las ventanas con las que más se trabajan en la construcción de patrones y del escalado. Se pueden activar en la barra menú ver y las más importantes son las siguientes:
+          
+          ol.lista-ol.mb-5
                 li 
                   span.text-bold 1. 
                   | Tabla de escalado.
@@ -271,6 +264,12 @@
                 li 
                   span.text-bold 5. 
                   | Mostar líneas guías.
+
+          figure
+                p.BorTit <b>Figura 23.</b> Divisiones en la interfaz PDS
+                img(src='@/assets/curso/tema2/img10.png')
+                figcaption Fuente: SENA 2021            
+              
       .row(titulo="D. Menú principal")
         .col-lg-2               
         .col-md-9
@@ -326,7 +325,7 @@
     #t_2_2.titulo-segundo
       h2 2.2  Patronaje en OptiTex de prendas inferiores y superiores
 
-    p.mb-5 Para patronar en el software OptiTex lo más común es partir de un rectángulo, conformado con la medida más ancha y la medida más larga por utilizar. Por ejemplo, en una falda utilizamos para el ancho del rectángulo el contorno más grande que sería la cadera y para el alto, ubicamos el largo de la falda. Esta acción se realizada con los siguientes pasos: Menú barra Pieza / Nueva Pieza / Crear rectángulo
+    p.mb-5 Para patronar en el software OptiTex, lo más común es partir de un rectángulo, conformado con la medida más ancha y la medida más larga por utilizar. Por ejemplo, en una falda utilizamos para el ancho del rectángulo el contorno más grande que sería la cadera y para el alto, ubicamos el largo de la falda. Esta acción se realizada con los siguientes pasos: Menú barra Pieza / Nueva Pieza / Crear rectángulo.
     
     .row.fondo-a.py-5.mb-5
       .col-lg-1
@@ -337,7 +336,7 @@
           figcaption Fuente: SENA 2021
       .col-lg-1
 
-    p.mb-5 Para observar cómo funciona el programa en práctica se recomienda ver los siguientes videos sobre creación de prendas en el software de PDS:
+    p.mb-5 Para observar cómo funciona el programa en práctica, se recomienda ver los siguientes videos sobre creación de prendas en el software de PDS:
     
     .row.mb-4
       .col-lg-2
@@ -352,29 +351,12 @@
               .anexo__texto
                 p <b>Enlace web.</b> Trazo de la falda
           .col-lg-5
-            p.mb-4 <b>5. Blusa hasta la cadera delantero</b>
-            a.anexo(href="https://www.youtube.com/watch?v=TYk4x8LnIXU" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace web.</b> Blusa hasta la cadera delantero
-          .col-lg-1
-        .row.mb-4
-          .col-lg-1
-          .col-lg-5
             p.mb-4 <b>2. Trazo de la base superior femenina</b>
             a.anexo(href="https://www.youtube.com/watch?v=p5r2Sm5N7nw" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p <b>Enlace web.</b> Trazo de la base superior femenina
-          .col-lg-5
-            p.mb-4 <b>6. Blusa hasta la cadera espalda</b>
-            a.anexo(href="https://www.youtube.com/watch?v=8-oyqpzDseo" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace web.</b> Blusa hasta la cadera espalda
+                p <b>Enlace web.</b> Trazo de la base superior femenina            
           .col-lg-1
         .row.mb-4
           .col-lg-1
@@ -384,7 +366,34 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p <b>Enlace web.</b> Traslados de pinza 
+                p <b>Enlace web.</b> Traslados de pinza
+          .col-lg-5
+            p.mb-4 <b>4. Cortes base superior femenina</b>
+            a.anexo(href="https://www.youtube.com/watch?v=ii4H63hkOZQ" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Cortes base superior femenina            
+          .col-lg-1
+        .row.mb-4
+          .col-lg-1
+          .col-lg-5
+            p.mb-4 <b>5. Blusa hasta la cadera delantero</b>
+            a.anexo(href="https://www.youtube.com/watch?v=TYk4x8LnIXU" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Blusa hasta la cadera delantero
+          .col-lg-5
+            p.mb-4 <b>6. Blusa hasta la cadera espalda</b>
+            a.anexo(href="https://www.youtube.com/watch?v=8-oyqpzDseo" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Blusa hasta la cadera espalda            
+          .col-lg-1
+        .row.mb-4
+          .col-lg-1
           .col-lg-5
             p.mb-4 <b>7. Cortes princesa y francés</b>
             a.anexo(href="https://www.youtube.com/watch?v=RMw9IStPYzA" target="_blank")
@@ -392,16 +401,6 @@
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Cortes princesa y francés
-          .col-lg-1
-        .row.mb-4
-          .col-lg-1
-          .col-lg-5
-            p.mb-4 <b>4. Cortes base superior femenina</b>
-            a.anexo(href="https://www.youtube.com/watch?v=ii4H63hkOZQ" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace web.</b> Cortes base superior femenina
           .col-lg-5
             p.mb-4 <b>8. Modelos de faldas</b>
             a.anexo(href="https://www.youtube.com/watch?v=DwDBOSykx2o" target="_blank")
@@ -425,8 +424,8 @@
       .col-lg-7.d-flex.p-5
         div.fondo-blanco.d-flex.align-items-center.p-5
           div
-            p.mb-5 El escalado en Marker también se trabaja con plano cartesiano en coordenadas X, Y; en este caso se encuentra con una variación que se presenta como dy, dx. Y si el movimiento es para -X o -Y se debe escribir el numero con el signo menos (-) adelante. 
-            p A nivel general el escalado digital o a través de un software de patronaje, se trabaja de la misma manera o con el mismo análisis que se hace de forma manual, en esta ocasión únicamente se va a trabajar la programación, interfaz y herramientas del programa para hacer cualquier tipo de escalado, se tomará como referente únicamente la base de falda, sin embargo, estos mismos pasos y esta configuración se debe realizar para cualquier tipo de base, prenda, trazo, molde o interpretación.
+            p.mb-5 El escalado en Marker también se trabaja con plano cartesiano en coordenadas X, Y; en este caso se encuentra con una variación que se presenta como dy, dx. Y si el movimiento es para -X o -Y se debe escribir el número con el signo menos (-) adelante. 
+            p A nivel general, el escalado digital o a través de un software de patronaje, se trabaja de la misma manera o con el mismo análisis que se hace de forma manual; en esta ocasión, únicamente se va a trabajar la programación, interfaz y herramientas del programa para hacer cualquier tipo de escalado, se tomará como referente únicamente la base de falda, sin embargo, estos mismos pasos y esta configuración se debe realizar para cualquier tipo de base, prenda, trazo, molde o interpretación.
     
     p.mb-5 <b>Preparación para iniciar el escalado:</b> Partimos de un patrón elaborado con aumentos de costura.
     
@@ -434,7 +433,7 @@
       div        
         p Revisar que los puntos que escalan tengan atributos de escaldo y los puntos que no deben escalar (según la prenda) se les debe quitar el atributo de escalado.
       div
-        p(style="text-align: left !important;") Crear el cuadro de tallas en que queremos escalar el diseño trazado. Para ello vamos a barra de menú ESCALADO, activamos TABLA DE TALLAS o comando Shif+F4. En esta ventana utilizamos el botón INSERTAR para crear tallas menores a la talla básica y el botón AGREGAR, para crear tallas mayores a la talla base. En nuestro caso crearemos el cuadro de tallas de la 6 a la 18 para patronaje femenino. Cada vez que creamos una talla podemos desplegar el cursor que aparece debajo de la casilla color para asignar colores diferentes a cada talla en el nido de escalado. La tecla BORRAR se utiliza para eliminar las tallas creadas.
+        p(style="text-align: left !important;") Crear el cuadro de tallas en que queremos escalar el diseño trazado. Para ello, vamos a la barra menú, Escalado, activamos Tabla de Tallas o comando <b>Shif+F4</b>. En esta ventana utilizamos el botón Insertar, para crear tallas menores a la talla básica y el botón Agregar, para crear tallas mayores a la talla base. En nuestro caso crearemos el cuadro de tallas de la 6 a la 18 para patronaje femenino. Cada vez que creamos una talla podemos desplegar el cursor que aparece debajo de la casilla color, para asignar colores diferentes a cada talla en el nido de escalado. La tecla Borrar, se utiliza para eliminar las tallas creadas.
     
     .row.mb-5
       .col-lg-6.d-flex

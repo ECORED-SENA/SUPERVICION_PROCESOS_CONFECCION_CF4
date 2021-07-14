@@ -171,7 +171,7 @@
       h2 2.1  Funciones básicas de PDS
 
     p.mb-4 El programa cuenta con una serie de pestañas integradas de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista.
-    p.mb-5 Para el manejo e implementación del software de patronaje, es necesario acudir tener conocimientos de patronaje y escalado, asociados a la elaboración de básicos.
+    p.mb-5 Para el manejo e implementación del software de patronaje, es necesario tener conocimientos de patronaje y escalado, asociados a la elaboración de básicos.
     
     .row.fondo-a.py-5.mb-5
       .col-lg-1
@@ -259,10 +259,10 @@
                   span.text-bold 5. 
                   |  Otras Ventanas (calculadora). 
                 li 
-                  span.text-bold 5. 
+                  span.text-bold 6. 
                   | Habilitar colores por comandos.
                 li 
-                  span.text-bold 5. 
+                  span.text-bold 7. 
                   | Mostar líneas guías.
 
           figure
@@ -325,7 +325,7 @@
     #t_2_2.titulo-segundo
       h2 2.2  Patronaje en OptiTex de prendas inferiores y superiores
 
-    p.mb-5 Para patronar en el software OptiTex, lo más común es partir de un rectángulo, conformado con la medida más ancha y la medida más larga por utilizar. Por ejemplo, en una falda utilizamos para el ancho del rectángulo el contorno más grande que sería la cadera y para el alto, ubicamos el largo de la falda. Esta acción se realizada con los siguientes pasos: Menú barra Pieza / Nueva Pieza / Crear rectángulo.
+    p.mb-5 Para patronar en el software OptiTex, lo más común es partir de un rectángulo, conformado con la medida más ancha y la medida más larga por utilizar. Por ejemplo, en una falda utilizamos para el ancho del rectángulo el contorno más grande que sería la cadera y para el alto, ubicamos el largo de la falda. Esta acción se realiza con los siguientes pasos: Menú barra Pieza / Nueva Pieza / Crear rectángulo.
     
     .row.fondo-a.py-5.mb-5
       .col-lg-1
@@ -345,14 +345,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>1. Trazo de la falda</b>
-            a.anexo(href="https://www.youtube.com/watch?v=WV4cu53pWxI" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=WV4cu53pWxI" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Trazo de la falda
           .col-lg-5
             p.mb-4 <b>2. Trazo de la base superior femenina</b>
-            a.anexo(href="https://www.youtube.com/watch?v=p5r2Sm5N7nw" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=p5r2Sm5N7nw" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -362,14 +362,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>3. Traslados de pinza</b>
-            a.anexo(href="https://www.youtube.com/watch?v=gUEDWvGuc2k" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=gUEDWvGuc2k" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Traslados de pinza
           .col-lg-5
             p.mb-4 <b>4. Cortes base superior femenina</b>
-            a.anexo(href="https://www.youtube.com/watch?v=ii4H63hkOZQ" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=ii4H63hkOZQ" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -379,14 +379,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>5. Blusa hasta la cadera delantero</b>
-            a.anexo(href="https://www.youtube.com/watch?v=TYk4x8LnIXU" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=TYk4x8LnIXU" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Blusa hasta la cadera delantero
           .col-lg-5
             p.mb-4 <b>6. Blusa hasta la cadera espalda</b>
-            a.anexo(href="https://www.youtube.com/watch?v=8-oyqpzDseo" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=8-oyqpzDseo" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -396,14 +396,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>7. Cortes princesa y francés</b>
-            a.anexo(href="https://www.youtube.com/watch?v=RMw9IStPYzA" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=RMw9IStPYzA" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Cortes princesa y francés
           .col-lg-5
             p.mb-4 <b>8. Modelos de faldas</b>
-            a.anexo(href="https://www.youtube.com/watch?v=DwDBOSykx2o" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=DwDBOSykx2o" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Patronaje digital de prendas de vestir                               ',
     descripcionCurso:
-      'Explicar el manejo de Softwares para la elaboración de patrones y escalado digital, es parte de la comprensión de esta temática, es por ello, que se abordará todo el proceso de digitalización a partir del reconocimiento de la interfaz, hasta el proceso de trazo automático. Se abordarán los softwares Audaces 360 y OptiTex en detalle; y Gerber se abordará de manera general.',
+      'Explicar el manejo de softwares para la elaboración de patrones y escalado digital, es parte de la comprensión de esta temática, es por ello, que se abordará todo el proceso de digitalización a partir del reconocimiento de la interfaz, hasta el proceso de trazo automático. Se abordarán los softwares Audaces 360 y OptiTex en detalle; y Gerber se abordará de manera general.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -114,17 +114,17 @@ export default {
   referencias: [
     {
       referencia:
-        'Audaces 360 - The most complete solution in systems for the fashion industry. (2021). Retrieved 27 May 2021. from',
+        'Audaces 360 - The most complete solution in systems for the fashion industry. (2021). Retrieved 27 May 2021, from',
       link: 'https://audaces.com/audaces-360/',
     },
     {
       referencia:
-        'OptiTex - Soluciones Digitales de Principio a Fin para la industria de Moda y Vestuario. (2021). Retrieved 27 May 2021. from',
+        'OptiTex - Soluciones Digitales de Principio a Fin para la industria de Moda y Vestuario. (2021), Retrieved 27 May 2021, from',
       link: 'https://optitex.com/es/',
     },
     {
       referencia:
-        'Gerber - convierta sus diseños en productos acabados. (2021). Retrieved 27 May 2021. from',
+        'Gerber - convierta sus diseños en productos acabados. (2021), Retrieved 27 May 2021, from',
       link: 'https://www.gerbertechnology.com/es-es/',
     },
     {

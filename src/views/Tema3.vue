@@ -73,14 +73,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>1. Anotaciones</b>
-            a.anexo(href="https://www.youtube.com/watch?v=3hezwHMyKek&t=7s" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=3hezwHMyKek&t=7s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Anotaciones
           .col-lg-5
             p.mb-4 <b>2. P-notch</b>
-            a.anexo(href="https://www.youtube.com/watch?v=xylEcHtj1OM" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=xylEcHtj1OM" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -91,14 +91,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>3. Marker Plot</b>
-            a.anexo(href="https://www.youtube.com/watch?v=LR7uexasQHE" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=LR7uexasQHE" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Marker Plot
           .col-lg-5
             p.mb-4 <b>4. Límites de tendido</b>
-            a.anexo(href="https://www.youtube.com/watch?v=GKQoVgGmK3Y" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=GKQoVgGmK3Y" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -109,14 +109,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>5. Reglas de escalado</b>
-            a.anexo(href="https://www.youtube.com/watch?v=iqM1frt3F-s" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=iqM1frt3F-s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Reglas de escalado
           .col-lg-5
             p.mb-4 <b>6. Configurar PDS</b>
-            a.anexo(href="https://www.youtube.com/watch?v=X9Db-Zzbl_4" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=X9Db-Zzbl_4" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -127,14 +127,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>7. Patrón de playera (delantero y espalda)</b>
-            a.anexo(href="https://www.youtube.com/watch?v=1acdmeRfC2s" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=1acdmeRfC2s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Patrón de playera (delantero y espalda)
           .col-lg-5
             p.mb-4 <b>8. Graduación o escalado de playera</b>
-            a.anexo(href="https://www.youtube.com/watch?v=6VC4BbU4Tjc" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=6VC4BbU4Tjc" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -146,14 +146,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>9. Crear orden y trazo</b>
-            a.anexo(href="https://www.youtube.com/watch?v=ese2BHLyJQ8" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=ese2BHLyJQ8" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Crear orden y trazo
           .col-lg-5
             p.mb-4 <b>10. Patrón base de falda</b>
-            a.anexo(href="https://www.youtube.com/watch?v=2SJPeFNtcZY" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=2SJPeFNtcZY" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

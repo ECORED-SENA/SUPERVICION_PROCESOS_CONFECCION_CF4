@@ -17,7 +17,7 @@
           img(src='@/assets/curso/img01.png')          
         
 
-    p El manejo de un software permite optimizar tiempos en la elaboración de patrones en las diferentes líneas de producción. La inmersión en el mundo digital se hace cada vez más predominante; es por ello, que en este espacio se hará un reconocimiento de la interfaz y el manejo de diferentes tipos de herramientas, sin embargo, el conocimiento técnico sobre el desarrollo de patrones o moldes ya ha sido adquirido y se implementará la misma base teórica con la que se trabaja de manera manual. Dentro de la cadena de producción, uno de los pasos del patronaje corresponde a trazo y corte, en este espacio se hará un contexto general, bajo la terminología de producción industrial en trazo y corte, este tipo de vocabulario, herramientas y conocimiento hace parte de los conceptos en cultura general qué debe tener un patronista.
+    p El manejo de un software permite optimizar tiempos en la elaboración de patrones en las diferentes líneas de producción. La inmersión en el mundo digital se hace cada vez más predominante; es por ello, que en este espacio se hará un reconocimiento de la interfaz y el manejo de diferentes tipos de herramientas, sin embargo, el conocimiento técnico sobre el desarrollo de patrones o moldes ya ha sido adquirido y se implementará la misma base teórica con la que se trabaja de manera manual. Dentro de la cadena de producción, uno de los pasos del patronaje corresponde a trazo y corte, en este espacio se hará un contexto general, bajo la terminología de producción industrial en trazo y corte, este tipo de vocabulario, herramientas y conocimiento hace parte de los conceptos en cultura general que debe tener un patronista.
 
 </template>
 

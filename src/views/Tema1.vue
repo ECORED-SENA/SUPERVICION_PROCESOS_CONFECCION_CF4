@@ -162,7 +162,7 @@
     #t_1_1.titulo-segundo
       h2 1.1  Funciones básicas
 
-    p.mb-4 Este programa cuenta con una serie de pestañas que tiene integrado de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista, a continuación, se muestran cada una de las pestañas:
+    p.mb-4 Este programa cuenta con una serie de pestañas que tiene integrado de manera secuencial, sin embargo, las vistas se pueden configurar y ajustar según lo considere el patronista; a continuación, se muestran cada una de las pestañas:
 
     SlyderCTitulo.mb-5(:datos="datosSlyder")
 
@@ -175,14 +175,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b> 1. Interfaz de Audaces</b>
-            a.anexo(href="https://www.youtube.com/watch?v=lSZta00zN0A" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=lSZta00zN0A" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Interfaz de Audaces
           .col-lg-5
             p.mb-4 <b> 2. Elementos básicos de Audaces</b>
-            a.anexo(href="https://www.youtube.com/watch?v=X4KJlTEPamA" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=X4KJlTEPamA" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -192,14 +192,14 @@
           .col-lg-1
           .col-lg-5
             p.mb-4 <b>3. Elemento vs Patrón</b>
-            a.anexo(href="https://www.youtube.com/watch?v=2TVCOrR_ECA" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=2TVCOrR_ECA" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Elemento vs Patrón
           .col-lg-5
             p.mb-4 <b>4. Snap clásico automático</b>
-            a.anexo(href="https://www.youtube.com/watch?v=UMZiH0aZQNo" target="_blank")
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=UMZiH0aZQNo" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

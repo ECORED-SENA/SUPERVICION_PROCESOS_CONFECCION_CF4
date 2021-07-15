@@ -234,8 +234,8 @@
       .col-lg-1
       .col-lg-10
         figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .video          
+            iframe(width="1280" height="720" src="https://www.youtube.com/embed/me2KUVooBmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .col-lg-1
 
     p.mb-5 Así mismo, se invita al aprendiz a profundizar en la creación e interpretación de una prenda superior en el software de Audaces Patrones, teniendo en cuenta que ya se pudo ver cómo se construía un patrón desde cero, en el video se podrá observar un ejercicio de interpretación.
@@ -244,8 +244,8 @@
       .col-lg-1
       .col-lg-10
         figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .video          
+            iframe(width="1280" height="720" src="https://www.youtube.com/embed/2yBXPB4JAuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .col-lg-1
 
     Separador
@@ -281,8 +281,8 @@
       .col-lg-1
       .col-lg-10
         figurelll
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .video          
+            iframe(width="1280" height="680" src="https://www.youtube.com/embed/8Kh3vxZfVJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .col-lg-1
     //.align-items-center
     //.justify-content-center

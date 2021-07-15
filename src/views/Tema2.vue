@@ -176,10 +176,46 @@
     .row.fondo-a.py-5.mb-5
       .col-lg-1
       .col-lg-10.py-3
-        figure.mb-4
-          p.BorTit <b>Figura 17.</b> Divisiones en la interfaz PDS
-          img(src='@/assets/curso/tema2/img04.png')
-          figcaption Fuente: SENA 2021
+
+
+
+
+        //- figure.mb-4
+        //-   p.BorTit <b>Figura 17.</b> Divisiones en la interfaz PDS
+        //-   img(src='@/assets/curso/tema2/img04.png')
+        //-   figcaption Fuente: SENA 2021
+
+
+        ImagenInfografica.color-secundario.mb-5
+          template(v-slot:imagen)
+            figure
+              p.BorTit <b>Figura 17.</b> Divisiones en la interfaz PDS
+              img(src='@/assets/curso/tema2/img04.png')
+              figcaption Fuente: SENA 2021
+
+          .tarjeta.tarjeta--gris.p-3(x="13%" y="16%")
+            .h5 1. Barra de título
+
+          .tarjeta.tarjeta--gris.p-3(x="40%" y="18%")
+            .h5 2. Barra de menú
+
+          .tarjeta.tarjeta--gris.p-3(x="75%" y="23%")
+            .h5 3. Barra de herramientas
+
+          .tarjeta.tarjeta--gris.p-3(x="27%" y="33%")
+            .h5 4. Ventana de piezas
+
+          .tarjeta.tarjeta--gris.p-3(x="10%" y="70%")
+            .h5 5. Ventana de herramientas
+
+          .tarjeta.tarjeta--gris.p-3(x="75%" y="65%")
+            .h5 6. Área de trabajo
+
+        
+            
+
+           
+
       .col-lg-1
 
     p.mb-5 A continuación, vamos a conocer la configuración y utilización de las herramientas básicas antes de iniciar con la elaboración de patrones digital y escalado.

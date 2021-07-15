@@ -97,68 +97,79 @@
               .anexo__texto
                 p <b>Enlace web.</b> Marker Plot
           .col-lg-5
-            p.mb-4 <b>4. Límites de tendido</b>
+            p.mb-4 <b>4. Plot</b>
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=-G-2OlGrURc" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Plot           
+          .col-lg-1
+
+        .row.mb-4
+          .col-lg-1
+          .col-lg-5
+            p.mb-4 <b>5. Límites de tendido</b>
             a.mb-4.anexo(href="https://www.youtube.com/watch?v=GKQoVgGmK3Y" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p <b>Enlace web.</b> Límites de tendido            
-          .col-lg-1
-
-        .row.mb-4
-          .col-lg-1
+                p <b>Enlace web.</b> Límites de tendido
           .col-lg-5
-            p.mb-4 <b>5. Reglas de escalado</b>
+            p.mb-4 <b>6. Reglas de escalado</b>
             a.mb-4.anexo(href="https://www.youtube.com/watch?v=iqM1frt3F-s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p <b>Enlace web.</b> Reglas de escalado
-          .col-lg-5
-            p.mb-4 <b>6. Configurar PDS</b>
-            a.mb-4.anexo(href="https://www.youtube.com/watch?v=X9Db-Zzbl_4" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace web.</b> Configurar PDS            
+                p <b>Enlace web.</b> Reglas de escalado           
           .col-lg-1
 
         .row.mb-4
           .col-lg-1
           .col-lg-5
-            p.mb-4 <b>7. Patrón de playera (delantero y espalda)</b>
+            p.mb-4 <b>7. Configurar PDS</b>
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=X9Db-Zzbl_4" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Configurar PDS
+          .col-lg-5
+            p.mb-4 <b>8. Patrón de playera (delantero y espalda)</b>
             a.mb-4.anexo(href="https://www.youtube.com/watch?v=1acdmeRfC2s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Patrón de playera (delantero y espalda)
-          .col-lg-5
-            p.mb-4 <b>8. Graduación o escalado de playera</b>
-            a.mb-4.anexo(href="https://www.youtube.com/watch?v=6VC4BbU4Tjc" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p <b>Enlace web.</b> Graduación o escalado de playera
           
           .col-lg-1
 
         .row.mb-4
           .col-lg-1
           .col-lg-5
-            p.mb-4 <b>9. Crear orden y trazo</b>
+            p.mb-4 <b>9. Graduación o escalado de playera</b>
+            a.mb-4.anexo(href="https://www.youtube.com/watch?v=6VC4BbU4Tjc" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web.</b> Graduación o escalado de playera
+          .col-lg-5
+            p.mb-4 <b>10. Crear orden y trazo</b>
             a.mb-4.anexo(href="https://www.youtube.com/watch?v=ese2BHLyJQ8" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p <b>Enlace web.</b> Crear orden y trazo
-          .col-lg-5
-            p.mb-4 <b>10. Patrón base de falda</b>
+          .col-lg-1
+
+        .row.mb-4
+          .col-lg-4
+          .col-lg-4
+            p.mb-4 <b>11. Patrón base de falda</b>
             a.mb-4.anexo(href="https://www.youtube.com/watch?v=2SJPeFNtcZY" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p <b>Enlace web.</b> Patrón base de falda
-          .col-lg-1
+                p <b>Enlace web.</b> Patrón base de falda     
+          .col-lg-4
       .col-lg-2
 
     p Así como los mencionados anteriormente, existen otros softwares dedicados al patronaje y trazado de prendas en el mercado, como Lectra que contiene un paquete de Patronaje llamado Modaris y para trazado denominado Diamino, cumplen funciones similares y bajo una estructura similar, decidir qué software implementar es una tarea de cada empresa, pues dependerá de sus necesidades y de cómo este se complementa junto con la labor desempeñada por cada uno de sus integrantes. 

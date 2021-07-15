@@ -4,7 +4,7 @@ export default {
       'Patronaje digital de prendas de vestir                               ',
     descripcionCurso:
       'Explicar el manejo de softwares para la elaboración de patrones y escalado digital, es parte de la comprensión de esta temática, es por ello, que se abordará todo el proceso de digitalización a partir del reconocimiento de la interfaz, hasta el proceso de trazo automático. Se abordarán los softwares Audaces 360 y OptiTex en detalle; y Gerber se abordará de manera general.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {

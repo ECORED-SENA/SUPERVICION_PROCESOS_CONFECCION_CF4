@@ -275,7 +275,7 @@
           figcaption Fuente: SENA 2021
       .col-lg-1
 
-    p.mb-5 En la figura anterior, se observa que una vez se pincha en tabla, dentro de la pestaña de escalado, se abre una ventana en la que en cada casilla se asignaran los valores a escalar, también se observan otros botones en la parte inferior, que sirve para agilizar este proceso; para comprender más sobre el escalado, se invita a visualizar el siguiente video: 
+    p.mb-5 En la figura anterior, se observa que una vez se pincha en tabla, dentro de la pestaña de escalado, se abre una ventana en la que en cada casilla se asignan los valores a escalar, también se observan otros botones en la parte inferior, que sirven para agilizar este proceso; para comprender más sobre el escalado, se invita a visualizar el siguiente video: 
     
     .row.mb-5
       .col-lg-1
